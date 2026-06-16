@@ -198,7 +198,7 @@ PORT=3001
 ## Clone Repository
 
 ```bash
-git clone https://github.com/soumyams1219/issue-management-platform.git
+git clone https://github.com/soumyams1219/issueManagementPlatform.git
 
 cd issue-management-platform
 ```
